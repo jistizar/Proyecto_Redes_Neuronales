@@ -1,0 +1,4 @@
+mvtec_env/
+dataset/
+__pycache__/
+*.ipynb

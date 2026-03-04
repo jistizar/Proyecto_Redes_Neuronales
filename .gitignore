@@ -1,0 +1,4 @@
+mvtec_env/
+__pycache__/
+*.h5
+dataset/
